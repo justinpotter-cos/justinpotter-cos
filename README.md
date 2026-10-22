@@ -12,6 +12,8 @@ One ongoing project is **Draft Compass**, a fantasy baseball application that br
 
 I guide the product direction, requirements, and validation, using AI tools to support implementation and iteration.
 
+[Explore Draft Compass screenshots and project overview](https://github.com/justinpotter-cos/draft-compass-showcase)
+
 ## Professional background
 
 - **Revance:** Chief of Staff to the CEO, leading executive operating cadence, dashboards, board coordination, PMO, and strategic initiatives.
